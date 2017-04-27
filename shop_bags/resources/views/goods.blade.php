@@ -3,10 +3,12 @@
 @section('content')
     @foreach($goods as $good)
         <p>
-            <a href="/goods/{{$good->id}}">
+            <a href="/goods/{{$good->category_id}}">
                 {{$good->name}}
+
             </a>
         </p>
+
     @endforeach
 @endsection
 

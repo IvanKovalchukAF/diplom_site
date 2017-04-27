@@ -16,5 +16,4 @@ class CategoriesController extends Controller
             return view('goods', ['goods' => $goods]);
         }
     }
-
 }

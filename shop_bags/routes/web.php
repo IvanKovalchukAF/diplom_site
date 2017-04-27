@@ -16,6 +16,10 @@ Route::get('/order/{id}', [
     'uses' => 'OrdersController@buyAction'
 ]);
 
-Route::post('order_final', [
+Route::get('order_final', [
     'uses' => 'OrdersController@finishAction'
 ]);
+
+Route::get('registry', 'RegistryController@registryAction');
+
+Route::get('pricing', 'PricingController@pricingAction');

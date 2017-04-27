@@ -1,7 +1,9 @@
 @foreach(App\Categories::all() as $category)
     <p>
-        <a href="/categories/{{$category->id}}">
-            {{$category->name}}
-        </a>
+    <div>
+        <ul class="nav nav-pills nav-stacked">
+            <li role="presentation" class="active"><a href="/categories/{{$category->id}}">{{$category->name}}</a></li>
+        </ul>
+    </div>
     </p>
 @endforeach
