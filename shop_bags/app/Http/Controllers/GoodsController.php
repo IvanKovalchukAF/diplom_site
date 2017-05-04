@@ -3,6 +3,7 @@ namespace App\Http\Controllers;
 
 use App\Goods;
 use App\GoodsImages;
+use Drupal\Core\Render\Element\Form;
 use Illuminate\Http\Request;
 
 class GoodsController extends Controller

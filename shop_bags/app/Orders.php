@@ -9,7 +9,7 @@ class Orders extends Model
     protected $table = 'orders';
 
 
-    /*public function goods() {
+   /* public function goods() {
         return $this->belongsToMany('App\goods', 'goods__orders')->withPivot('amount');
     }*/
 }

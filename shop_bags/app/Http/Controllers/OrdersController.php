@@ -16,7 +16,7 @@ class OrdersController extends Controller
         }
     }
 
-    public function finishAction() {
+    public function orderAction() {
         $allData = Input::all();
 
         $order = new Orders();
@@ -28,7 +28,9 @@ class OrdersController extends Controller
         $order->amount = $allData['amount'];
 
         $order->save();
-
+        ?><h1><?='Your order is accepted, we will call you soon';?></h1>
+        <?php
+        return view('layouts.head');
     }
 }
 

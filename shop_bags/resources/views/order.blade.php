@@ -1,14 +1,11 @@
-@extends('layouts.main')
+@extends('layouts.head')
 
 @section('content')
-
-    <div class="container">
-        <div class="row">
-            <form class="form-horizontal" action="http://shop-bags.dev">
+            <form method="POST" class="form-horizontal" action="/order_ok">
+                {{ csrf_field() }}
                 <fieldset>
-
                     <!-- Form Name -->
-                    <legend>Order</legend>
+                    <legend><h3>Order</h3></legend>
 
                     <!-- Text input-->
                     <div class="form-group">
