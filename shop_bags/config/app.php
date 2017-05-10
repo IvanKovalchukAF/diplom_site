@@ -165,6 +165,11 @@ return [
         Illuminate\Html\HtmlServiceProvider::class,
 
         /*
+         * LaraAdmin Service provider...
+         */
+        Dwij\Laraadmin\LAProvider::class,
+
+        /*
          * Package Service Providers...
          */
         Laravel\Tinker\TinkerServiceProvider::class,
