@@ -93,9 +93,7 @@
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>
-<div>
-    <footer>
-        <p>&copy; 2017 Company, Inc.</p>
-    </footer>
 
-</div>
+
+{{--Add footer--}}
+@extends('layouts.footer')
