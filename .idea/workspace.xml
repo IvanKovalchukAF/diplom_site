@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94949c66-be79-4b5a-8218-1e46c0f76d2d" name="Default" comment="12/05/2017/5">
+    <list default="true" id="94949c66-be79-4b5a-8218-1e46c0f76d2d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop_bags/.gitignore" afterPath="$PROJECT_DIR$/shop_bags/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -229,7 +228,7 @@
       <workItem from="1494611393684" duration="2241000" />
       <workItem from="1494613936981" duration="209000" />
       <workItem from="1494614159332" duration="1947000" />
-      <workItem from="1494616123456" duration="400000" />
+      <workItem from="1494616123456" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="12/05/2017/3">
       <created>1494614459877</created>
@@ -252,14 +251,22 @@
       <option name="project" value="LOCAL" />
       <updated>1494615191948</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12/05/2017/5">
+      <created>1494616525799</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494616525799</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9242000" />
+    <option name="totallyTimeSpent" value="9273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="-11" width="1323" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27529413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -269,7 +276,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32741934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6699029" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6699029" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -332,10 +339,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1494616489438" expanded="true" signature="19156:19191" ph="..." />
-            <marker date="1494616489438" expanded="true" signature="19156:19204" ph="..." />
-            <marker date="1494616489438" expanded="true" signature="19156:19219" ph="..." />
-            <marker date="1494616489438" expanded="true" signature="19156:19173" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19915" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19928" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19943" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19897" ph="..." />
           </folding>
         </state>
       </provider>
@@ -359,10 +366,10 @@
         <state relative-caret-position="1401">
           <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
           <folding>
-            <marker date="1494616489438" expanded="true" signature="19156:19191" ph="..." />
-            <marker date="1494616489438" expanded="true" signature="19156:19204" ph="..." />
-            <marker date="1494616489438" expanded="true" signature="19156:19219" ph="..." />
-            <marker date="1494616489438" expanded="true" signature="19156:19173" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19915" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19928" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19943" ph="..." />
+            <marker date="1494616529626" expanded="true" signature="19880:19897" ph="..." />
           </folding>
         </state>
       </provider>
